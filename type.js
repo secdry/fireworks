@@ -1,4 +1,4 @@
-var content = 'FESTA!!!';
+var content = 'UMA FESTA!!!';
 var text = document.getElementById('text');
 
 var speed = 200;
